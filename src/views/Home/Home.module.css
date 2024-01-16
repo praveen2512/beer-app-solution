@@ -1,0 +1,25 @@
+.list {
+  list-style: none;
+}
+
+.listContainer {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.listHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.filter {
+  flex: 1;
+}
+
+.actions {
+  display: flex;
+  gap: 0.5rem;
+}
