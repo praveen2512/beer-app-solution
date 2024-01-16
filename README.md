@@ -7,7 +7,7 @@ This repository contains solution for interview assignment. Implemented the belo
 - Beer page ~ style a cool beer page
 - Home page favourites ~ add a list of favourite beers, do not clean after page reload
 - Beer list filtering + pagination + sorting
-- Progressive[Title](https://github.com/praveen2512/beer-app-solution/upload) Web App, offline
+- Progressive Web App, offline
 
 ### Local Development
 
